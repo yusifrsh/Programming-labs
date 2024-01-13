@@ -254,4 +254,18 @@ let arr2 = [
 
 
 // 24 arr2 de terkibinde 2 'L' herfi olan obyekt(ler)in index(ler)ini tapin.
+// arr2.map((item, index) => {
+//     if (item.name.indexOf('l') !== item.name.lastIndexOf('l')) {
+//         console.log(index);
+//     }
+// })
+
+// console.log('ulfat'.lastIndexOf('l'));
+
+
+
+
+
+
+
 // 25 arr2 de terkibinde 2 't' herfi olan obyekt(ler)in key(ler)ini tapin.
