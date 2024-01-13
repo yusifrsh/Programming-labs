@@ -21,7 +21,7 @@ form.addEventListener('submit', (e) => {
     if (password.value !== confirmPassword.value) {
         alert('Confirm password is not match password')
         return
-    } else if (isAdmin.checked){
+    } else if (checkbox.checked){
         window.location.href = 'user.html'
     } else {
         alert('You are User!')
